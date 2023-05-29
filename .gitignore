@@ -1,0 +1,5 @@
+db.sqlite3
+page/__pycache__
+page/__init__.py
+Pages/__pycache__
+Pages/__init__.py
